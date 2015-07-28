@@ -1,0 +1,8 @@
+/config/
+/configuration/
+/context/
+/db/
+/logback.xml
+/messages/
+/org/
+/sql/
